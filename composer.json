@@ -1,0 +1,16 @@
+{
+    "name": "anvanza/ovh-download-dns",
+    "authors": [
+        {
+            "name": "Anthony Van Zandycke",
+            "homepage": "https://www.vanzandycke.com"
+        }
+    ],
+    "require": {
+        "php": "8.2.*",
+        "ovh/ovh": "^3.3",
+        "symfony/yaml": "^7.0",
+        "symfony/filesystem": "^7.0",
+        "ext-json": "*"
+    }
+}

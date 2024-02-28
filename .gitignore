@@ -1,0 +1,4 @@
+/vendor
+/backups
+composer.lock
+config.yml
